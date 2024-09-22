@@ -1,0 +1,23 @@
+{
+  "name": "wdd-430",
+  "version": "1.0.0",
+  "description": "WDD 430",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "WDD 430"
+  },
+  "keywords": [
+    "Web",
+    "Design"
+  ],
+  "author": "Lola Cuadra",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.12",
+    "typescript": "^5.6.2"
+  }
+}
